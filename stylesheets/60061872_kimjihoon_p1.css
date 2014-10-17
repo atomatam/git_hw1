@@ -1,0 +1,16 @@
+html{background:#bbf; 
+	font: 15pt/30pt "맑은 고딕", "Malgun Gothic", "굴림", "Gulim";
+}
+
+/body,div,ul {margin:10; padding:10;}
+li{list-style:none;}
+
+/*layer*/
+
+#wrap {width:700px;float:left; height:700px; margin:10px auto;}
+#img_part{width:270px; float:right; margin:10px auto; float:left;}
+#introduce_part{width:350px; float:left; ; margin:10px auto; padding:10px; border:10px;} 
+#link_part {width:400px;}
+
+.box {width:130px; height:30px; padding:20px; margin-bottom:10px; border-width:6px; }
+.dotted {border-style:dotted;}

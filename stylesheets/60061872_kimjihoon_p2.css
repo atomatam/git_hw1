@@ -1,0 +1,62 @@
+html, head, div {margin : 0; padding:0; }
+
+#wrap {margin:0px auto; width:960px; height: 800px; background-color:#DDD;}
+
+
+.box {
+    width:960px;
+    height:50px;
+    background-color:#a3aab3;
+    border-radius: 30px 0/15px 0;
+}
+
+#top {
+    font:15pt/30pt "맑은 고딕", "Malgun Gothic", "굴림", "Gulim";
+    text-align: right;
+}
+/*
+#navigation {
+    margin: 0px;
+    width:1200px;
+    height:40px;
+    background-color:#b4abb3;
+}*/
+
+#navigation {width:960px; height:30px;background-color:#03497d;}
+#navigation ul {margin:0;padding:0;}
+#navigation ul li {float:left;}
+#navigation ul li a{
+    color:#fff; background-color:#4682b4;
+    display:block;
+    width:200px;
+    text-align:center;
+    padding:0px 10px; 
+    font: bold 12px/30px Tahoma;
+    text-decoration:none;
+    margin-right:1px;
+}
+#main-con {
+    margin: 0px;
+    
+}
+/*<html>
+        <div id = "main-con">
+            <div id = "jihoon-22">
+                <img src = "images/mil.jpg" alt = "pig 지훈">뚱뚱하던 시절 지훈이
+            </div>
+            <div id = "jihoon-qut">
+                <img src = "images/qut.jpg" alt = "pig 지훈">귀엽던 시절 지훈이
+            </div>
+            <div id = "jihoon-qut">
+                <img src = "images/bom.jpg" alt = "pig 지훈">귀여운 지후니네 강아지
+            </div>
+        </div>
+        <div id = "back">
+            <ul>
+                <li><a href="http://www.mju.ac.kr"><b>명지대학교 바로가기</b></a></li>
+                <li><a href="http://www.lib.mju.ac.kr"><b>명지대학교 도서관 바로 가기</b></a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>*/

@@ -1,0 +1,12 @@
+
+html {background:#A6F5F5;}
+
+body {width:400px; 
+	height:500px;
+	color:red;
+	text-align:center;
+	float:right;}
+
+
+.box {width:350px; padding:20px; margin-bottom:10px; border-width:6px;}
+.outset {border-style:outset;}
